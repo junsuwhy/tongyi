@@ -17,7 +17,7 @@
       <guid>/news/local/selfsaver/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://news.sina.com.tw/article/20151223/15815704.html&#34;&gt;不滿紙廠及焚化爐造成污染豐原民眾市議會前陳情 - 中廣新聞網&lt;/a&gt;
@@ -68,7 +68,7 @@
       <guid>/news/local/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://udn.com/news/story/9/1395783&#34;&gt;紙業塑膠造汙染 居民拉白布條怒吼 - 聯合報&lt;/a&gt;
@@ -89,8 +89,13 @@
 &lt;em&gt;2015-12-23&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cna.com.tw/news/aloc/201512230294-1.aspx&#34;&gt;不滿空污 豐原近百民眾市議會抗議 - 中央社&lt;/a&gt;
 &lt;em&gt;2015-12-23&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chinatimes.com/realtimenews/20151223002649-260407&#34;&gt;豐原民眾受夠 發動抗議要求市府還呼吸權 - 中國時報&lt;/a&gt;
-&lt;em&gt;2015-12-23&lt;/em&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.chinatimes.com/realtimenews/20151223002649-260407&#34;&gt;豐原民眾受夠 發動抗議要求市府還呼吸權 - 中國時報&lt;/a&gt;
+&lt;em&gt;2015-12-23&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;地方組織&#34;&gt;地方組織&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/local/selfsaver&#34;&gt;反空汙自救會&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -103,7 +108,7 @@
       <guid>/news/government/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/FengYuan/M.1448166278.A.B25.html&#34;&gt;PTT豐原版  [新聞] 紙廠空汙頻遭檢舉 議員怪環保局刻意打壓 - PTT&lt;/a&gt;
@@ -114,8 +119,17 @@
 &lt;em&gt;2015-12-23&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.shop2000.com.tw/台中日報/news/233589&#34;&gt;豐原民眾陳情東億紙業污染環境  環保局持續查處絕不妥協 - 台中日報&lt;/a&gt;
 &lt;em&gt;2015-12-24&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.ltn.com.tw/news/life/breakingnews/1681730&#34;&gt;豐原東億紙業被控污染工廠竟違法擴建近5倍 - 自由時報&lt;/a&gt;
-&lt;em&gt;2016-04-30&lt;/em&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://news.ltn.com.tw/news/life/breakingnews/1681730&#34;&gt;豐原東億紙業被控污染工廠竟違法擴建近5倍 - 自由時報&lt;/a&gt;
+&lt;em&gt;2016-04-30&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;政府&#34;&gt;政府&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/government/majorlin&#34;&gt;林佳龍市長&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/government/environment&#34;&gt;環保局&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/government/economy&#34;&gt;經濟發展局&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -128,7 +142,7 @@
       <guid>/news/government/majorlin/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 </description>
     </item>
     
@@ -140,7 +154,7 @@
       <guid>/news/representatives/environment/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 </description>
     </item>
     
@@ -152,7 +166,7 @@
       <guid>/news/representatives/factory/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/FengYuan/M.1448166278.A.B25.html&#34;&gt;PTT豐原版  [新聞] 紙廠空汙頻遭檢舉 議員怪環保局刻意打壓 - PTT&lt;/a&gt;
@@ -169,11 +183,17 @@
       <guid>/news/representatives/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/FengYuan/M.1448166278.A.B25.html&#34;&gt;PTT豐原版  [新聞] 紙廠空汙頻遭檢舉 議員怪環保局刻意打壓 - PTT&lt;/a&gt;
-&lt;em&gt;2015-11-22&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/FengYuan/M.1448166278.A.B25.html&#34;&gt;PTT豐原版  [新聞] 紙廠空汙頻遭檢舉 議員怪環保局刻意打壓 - PTT&lt;/a&gt;
+&lt;em&gt;2015-11-22&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;民意代表&#34;&gt;民意代表&lt;/h2&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/representatives/environment&#34;&gt;民代支持環保局&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;/news/representatives/factory&#34;&gt;民代支持紙廠&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -186,7 +206,7 @@
       <guid>/news/government/environment/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ptt.cc/bbs/FengYuan/M.1448166278.A.B25.html&#34;&gt;PTT豐原版  [新聞] 紙廠空汙頻遭檢舉 議員怪環保局刻意打壓 - PTT&lt;/a&gt;
@@ -211,7 +231,7 @@
       <guid>/news/factory/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cna.com.tw/news/aloc/201512240325-1.aspx&#34;&gt;東億紙廠空污超標遭罰 員工議會陳情 - 中央社&lt;/a&gt;
@@ -246,7 +266,7 @@
       <guid>/news/government/economy/</guid>
       <description>
 
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
+&lt;h2 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://news.ltn.com.tw/news/life/breakingnews/1681730&#34;&gt;豐原東億紙業被控污染工廠竟違法擴建近5倍 - 自由時報&lt;/a&gt;
