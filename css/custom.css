@@ -1,3 +1,14 @@
+img.tongyi-logo{
+    width: 96px;
+    margin: 2em auto 0;
+    display: block;
+}
+
+h1.blog-title{
+    margin-top: 5px;
+    text-align: center;
+}
+
 nav ul {
     overflow: auto;
 }

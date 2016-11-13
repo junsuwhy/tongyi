@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/means/1/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/local/selfsaver/</loc>
+    <loc>/means/1/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/means/3/</loc>
+    <loc>/news/local/selfsaver/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/means/4/</loc>
+    <loc>/means/3/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/local/</loc>
+    <loc>/means/4/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/means/</loc>
+    <loc>/news/local/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/government/</loc>
+    <loc>/means/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/</loc>
+    <loc>/news/government/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/government/majorlin/</loc>
+    <loc>/news/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/representatives/environment/</loc>
+    <loc>/news/government/majorlin/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/representatives/factory/</loc>
+    <loc>/news/representatives/environment/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/representatives/</loc>
+    <loc>/news/representatives/factory/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/government/environment/</loc>
+    <loc>/news/representatives/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/factory/</loc>
+    <loc>/news/government/environment/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/news/government/economy/</loc>
+    <loc>/news/factory/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/action/</loc>
+    <loc>/news/government/economy/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/means/2/</loc>
+    <loc>/action/</loc>
   </url>
   
   <url>
-    <loc>https://junsuwhy.github.io/tongyi/</loc>
+    <loc>/means/2/</loc>
   </url>
   
 </urlset>

@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>東億事件簿</title>
-    <link>https://junsuwhy.github.io/tongyi/index.xml</link>
-    <description>Recent content on 東億事件簿</description>
+    <title>東億紙廠空汙事件簿</title>
+    <link>/index.xml</link>
+    <description>Recent content on 東億紙廠空汙事件簿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hant</language>
     <copyright>Released under the MIT license.</copyright>
-    <atom:link href="https://junsuwhy.github.io/tongyi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>事件簡介</title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>
+
+&lt;p&gt;台中市豐原區的東億紙廠已設廠數年，2015 年 11 月，台中市豐原區的東億紙廠連連被檢舉空氣汙染，幾名議員開始在議會質問環保局。
+2016 年 1 月，民眾進行一場「反空汙遊行」，表達希望沒有汙染的訴求。而後市府認定在乙種工業區的廠房為違建，卻有近半年沒有命令拆除，而東億紙廠的員工也以工作權為訴求向市府陳情。&lt;/p&gt;
+
+&lt;h1 id=&#34;現況&#34;&gt;現況&lt;/h1&gt;
+
+&lt;p&gt;&lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;25&lt;/sub&gt; 已到東億自拆期限，卻沒有如期完成。市府強制執行拆除。&lt;/p&gt;
+
+&lt;h1 id=&#34;行動&#34;&gt;行動&lt;/h1&gt;
+
+&lt;p&gt;你可以為這個計劃做什麼??&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>以民代向政府施壓</title>
-      <link>https://junsuwhy.github.io/tongyi/means/1/</link>
+      <link>/means/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/means/1/</guid>
+      <guid>/means/1/</guid>
       <description>
+
+&lt;p&gt;東億紙廠在遭到民眾檢舉，環保局上門稽查後，開始有議員在質詢時質疑環保局打壓合法業者，並用「抄家滅工廠」嚴厲的詞譴責環保局。&lt;/p&gt;
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
 
@@ -28,10 +51,10 @@
     
     <item>
       <title>反空汙自救會</title>
-      <link>https://junsuwhy.github.io/tongyi/news/local/selfsaver/</link>
+      <link>/news/local/selfsaver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/local/selfsaver/</guid>
+      <guid>/news/local/selfsaver/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -79,10 +102,10 @@
     
     <item>
       <title>吊白布</title>
-      <link>https://junsuwhy.github.io/tongyi/means/3/</link>
+      <link>/means/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/means/3/</guid>
+      <guid>/means/3/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -96,10 +119,10 @@
     
     <item>
       <title>告地方居民</title>
-      <link>https://junsuwhy.github.io/tongyi/means/4/</link>
+      <link>/means/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/means/4/</guid>
+      <guid>/means/4/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -113,10 +136,10 @@
     
     <item>
       <title>地方組織</title>
-      <link>https://junsuwhy.github.io/tongyi/news/local/</link>
+      <link>/news/local/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/local/</guid>
+      <guid>/news/local/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -148,19 +171,19 @@
     
     <item>
       <title>手段</title>
-      <link>https://junsuwhy.github.io/tongyi/means/</link>
+      <link>/means/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/means/</guid>
+      <guid>/means/</guid>
       <description></description>
     </item>
     
     <item>
       <title>政府</title>
-      <link>https://junsuwhy.github.io/tongyi/news/government/</link>
+      <link>/news/government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/government/</guid>
+      <guid>/news/government/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -182,10 +205,10 @@
     
     <item>
       <title>新聞</title>
-      <link>https://junsuwhy.github.io/tongyi/news/</link>
+      <link>/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/</guid>
+      <guid>/news/</guid>
       <description>&lt;p&gt;這邊會放各個立場的相關新聞&lt;/p&gt;
 
 &lt;ul&gt;
@@ -199,10 +222,10 @@
     
     <item>
       <title>林佳龍市長</title>
-      <link>https://junsuwhy.github.io/tongyi/news/government/majorlin/</link>
+      <link>/news/government/majorlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/government/majorlin/</guid>
+      <guid>/news/government/majorlin/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -211,10 +234,10 @@
     
     <item>
       <title>民代支持環保局</title>
-      <link>https://junsuwhy.github.io/tongyi/news/representatives/environment/</link>
+      <link>/news/representatives/environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/representatives/environment/</guid>
+      <guid>/news/representatives/environment/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -223,10 +246,10 @@
     
     <item>
       <title>民代支持紙廠</title>
-      <link>https://junsuwhy.github.io/tongyi/news/representatives/factory/</link>
+      <link>/news/representatives/factory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/representatives/factory/</guid>
+      <guid>/news/representatives/factory/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -240,10 +263,10 @@
     
     <item>
       <title>民意代表</title>
-      <link>https://junsuwhy.github.io/tongyi/news/representatives/</link>
+      <link>/news/representatives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/representatives/</guid>
+      <guid>/news/representatives/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -257,10 +280,10 @@
     
     <item>
       <title>環保局</title>
-      <link>https://junsuwhy.github.io/tongyi/news/government/environment/</link>
+      <link>/news/government/environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/government/environment/</guid>
+      <guid>/news/government/environment/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -282,10 +305,10 @@
     
     <item>
       <title>紙廠</title>
-      <link>https://junsuwhy.github.io/tongyi/news/factory/</link>
+      <link>/news/factory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://junsuwhy.github.io/tongyi/news/factory/</guid>
+      <guid>/news/factory/</guid>
       <description>
 
 &lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
@@ -311,23 +334,6 @@
 &lt;em&gt;2016-10-03&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.chinatimes.com/realtimenews/20161003003683-260407&#34;&gt;東億紙業抗議中市府：違反環保、違章強制拆除 - 中國時報&lt;/a&gt;
 &lt;em&gt;2016-10-03&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>經濟發展局</title>
-      <link>https://junsuwhy.github.io/tongyi/news/government/economy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://junsuwhy.github.io/tongyi/news/government/economy/</guid>
-      <description>
-
-&lt;h1 id=&#34;相關新聞連結&#34;&gt;相關新聞連結&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://news.ltn.com.tw/news/life/breakingnews/1681730&#34;&gt;豐原東億紙業被控污染工廠竟違法擴建近5倍 - 自由時報&lt;/a&gt;
-&lt;em&gt;2016-04-30&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
